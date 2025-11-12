@@ -1,11 +1,11 @@
 # 🗣️ English Speaking Buddy
 
-A fun **English-speaking practice bot** for my 10-year-old nephew, built in **Python** with **voice** interaction and a child-friendly UI.  
+- A fun **English-speaking practice bot** for my 10-year-old nephew, built in **Python** with **voice** interaction and a child-friendly UI.  
 Designed for kids to **practice English conversation naturally** and **build confidence** while speaking.
 ---
 ## 🚧 Status
 
-This project is still under development — functionality and accuracy are being actively improved.
+- This project is still under development — functionality and accuracy are being actively improved.
 ---
 
 ## ✨ Features
